@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e19122a9243c2a64597b0fc0eea5e65e
+  - enabled: 1
+    path: Assets/Scenes/EntryList.unity
+    guid: f81828f6fae461c4e83a3718ca118e9a
+  - enabled: 1
+    path: Assets/Scenes/MirrorScene.unity
+    guid: 5d9157b2978299d48b1fc5b416669a47
+  m_configObjects: {}
